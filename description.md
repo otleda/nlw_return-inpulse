@@ -5,7 +5,7 @@
 - React.js
 - React-Native
 - Node.js
-- Tailwild.css
+- Tailwind.css
 - Typescript
 - Acessibility
 - SOLID
@@ -43,3 +43,14 @@ JSX com tipagem e **TSX**
 ```sh
 npm run dev
 ```
+
+
+### TailwindCss Install
+
+[TAILWINDCSS](https://tailwindcss.com/)
+
+```sh
+npm install -D tailwindcss
+npx tailwindcss init -p
+```
+
