@@ -49,8 +49,11 @@ npm run dev
 
 [TAILWINDCSS](https://tailwindcss.com/)
 
+segue o passo usando o Using PostCSS
+
 ```sh
-npm install -D tailwindcss
-npx tailwindcss init -p
+(1)
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
 ```
 
